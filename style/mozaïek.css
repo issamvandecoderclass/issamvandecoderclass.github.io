@@ -1,0 +1,142 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #D39F00; repeat;
+}
+
+header {
+  background: grey url('../images/html_css.png') repeat;
+  width: 1030px;
+  height: 80px;
+}
+
+h1 {
+  font-size: 300%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: right;
+  text-shadow: 5px 5px 7px #000000;
+}
+
+.headerTekst{
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+ul {
+  padding: 10px;
+  background-color: black;
+}
+
+ul :hover{
+  background-color: #DFD7D7;
+
+}
+ul li {
+  background: red;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
+}
+
+section {
+  padding: 5px;
+  margin: 5px;
+  border: double 4px black;
+}
+
+article {
+  border: 3px solid black;
+  border-radius: 0px 20px 20px 20px;
+  margin: 5px 10px 5px 10px;
+  padding: 10px;
+  background: white;
+}
+
+article p {
+    color: #00FF95;
+}
+
+.TekstKop{
+  text-shadow: 5px 5px 7px #000000;
+}
+
+footer {
+  background: #F0F0F0;
+  position: absolute;
+}
+
+footer h5 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 90%;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  margin: 0 auto 0 auto;
+  width: 960px;
+}
+
+#rood {
+  background-color: red;
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  z-index: 3;
+  height: 125px;
+  width: 125px;
+}
+
+#geel {
+  background-color: yellow;
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  z-index: 2;
+  height: 170px;
+  width: 170px;
+}
+
+#zwart {
+  background-color: black;
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  z-index: 1;
+  height: 300px;
+  width: 300px;
+}
+
+#blauw {
+  background-color: blue;
+  position: absolute;
+  top: 450px;
+  left: 650px;
+  z-index: 3;
+  height: 150px;
+  width: 150px;
+}
+
+#groen {
+  background-color: green;
+  position: absolute;
+  top: 390px;
+  left: 600px;
+  z-index: 3;
+  height: 160px;
+  width: 160px;
+}
