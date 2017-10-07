@@ -95,6 +95,11 @@ footer h5 {
   width: 960px;
 }
 
+.ikfoto{
+  border-radius: 100%;
+  float: left
+  }
+
 .fa {
     padding: 20px;
     font-size: 30px;
