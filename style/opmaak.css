@@ -98,7 +98,9 @@ footer h5 {
 
 .ikfoto{
   border-radius: 100%;
-  float: left
+  float: left;
+  height: 110px; 
+  width: 100px;
   }
 
 .fa {
