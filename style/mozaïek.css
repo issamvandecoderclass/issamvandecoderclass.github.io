@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
-  background-color: #D39F00; repeat;
+  background-color: #AA5239; repeat;
 }
 
 header {
@@ -25,7 +25,7 @@ h1 {
 
 ul {
   padding: 10px;
-  background-color: #0B0893;
+  background-color: #D8260A;
 }
 
 ul :hover{
@@ -33,7 +33,7 @@ ul :hover{
 
 }
 ul li {
-  background: red;
+  background: #D8B60A;
   padding: 5px;
   border: solid 2px white;
   display: inline;
