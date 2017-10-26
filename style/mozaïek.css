@@ -92,6 +92,10 @@ footer h5 {
   width: 960px;
 }
 
+.navigation {
+    display: inline
+}
+
 #rood {
   background-color: red;
   position: absolute;
