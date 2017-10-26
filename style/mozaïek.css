@@ -28,10 +28,6 @@ ul {
   background-color: #D8260A;
 }
 
-ul :hover{
-  background-color: #DFD7D7;
-
-}
 ul li {
   background: #D8B60A;
   padding: 5px;
